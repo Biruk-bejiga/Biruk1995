@@ -1,6 +1,6 @@
 hi, I'm Biruk Bejga 
 I'm intereted in web and app development
-I am 3rd year software engeenering student in adama sicince and technology univesity- 👋 Hi, I’m @Biruk1995
+I am 4rd year software engeenering student in adama sicince and technology univesity- 👋 Hi, I’m @Biruk
 birukbejga8@gmail.com
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -10,6 +10,6 @@ birukbejga8@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
-Biruk1995/Biruk1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biruk/Biruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
